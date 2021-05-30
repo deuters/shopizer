@@ -76,8 +76,7 @@
 		<jwt.version>0.8.0</jwt.version>
 
 
-		<!-- api documentation -->
-		<!-- test commentary -->
+		<!-- api documentation123 -->
 		<swagger.version>2.9.2</swagger.version>
 
 		<!-- jacoco coverage -->
