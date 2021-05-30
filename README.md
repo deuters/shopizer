@@ -18,7 +18,7 @@ Java open source e-commerce software
 - Administration
 - REST API
 
-See the demo (jsp):
+See the demo:
 -------------------
 http://aws-demo.shopizer.com:8080/
 
