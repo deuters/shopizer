@@ -5,7 +5,7 @@ pipeline {
         stage('Build') {
             steps {
                 git 'https://github.com/deuters/shopizer.git'
-                sh './mvnw clean install'
+                sh './mvnw clean clean compile'
             }
         }
     }
